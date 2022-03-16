@@ -23,12 +23,12 @@ github_username:  jaehyun230
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Python & tensorflow / NodeJS & HTML & CSS  - **4년차 전문연구요원 개발자**<br>
-  **한국 최초 VTS 시스템 구축** 전국 23개 VTS 중 19개소, **MAU 1,300만/일 주문 300만 커머스**, **일 PV 2,000만 포탈** 등의 서비스에서 API/Batch 개발 및 AWS 인프라 구축 등을 해왔습니다.<br/>
-  현재는 팀 내 <mark>개발 리더</mark>로 채용, 프로젝트 코어 구현, 파트 매니징, 설계 등을 주요 업무로 하고 있습니다.<br/>
-  개인이 하고 싶은 일 보다는 <mark>회사와 팀에 도움이 되는</mark> 개발을 해야한다는 생각에
-  xtrabackup, pt-online-schema-change, MHA를 활용한 MySQL 운영, Ansible을 이용한 IDC 인프라 운영을 해오기도 했습니다.<br/>
-  <mark>테스트 코드</mark> 작성을 당연하게 생각하여 전 직장 시스템의 경우 2500개의 테스트 케이스가 하루에도 수십번 수행되기도 했습니다.
-  현재는 해양 관제 서비스 기능 개발 및 자율 운항 지원 서비스 성장을 지원하고 있습니다.
+  **한국 최초 VTS 시스템 구축**, **전국 23개 VTS 중 19개소** 해양 교통관제 서비스에서 API 개발 및 인프라 구축을 해왔습니다.<br/>
+  현재는 팀 내에서 <mark>프로젝트 코어 구현, 설계</mark> 등을 업무로 하고 있습니다.<br/>
+  단순 기능개발이 아닌 <mark>재사용성을 높이는 방향으로</mark> 개발을 해야한다는 생각으로
+  CRT를 이용한 메모리 누수 체크 및 개선, 환경에 맞는 좌표변환, 기능별 모듈로 나누어서 개발울 해오기도 했습니다.<br/>
+  지속적인 개발을 위해선 <mark>클린 코드</mark> 작성을 당연하게 생각하여 꾸준한 리팩토링 작업을 수행하여 왔습니다.
+  현재는 해양 관제 서비스 기능 개발, 퍼포먼스 개선 및 자율 운항 지원 서비스 성장을 지원하고 있습니다.
 
 # Projects Section
 # projects_title: Projects
@@ -43,7 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 
 more_content: | # this will include new lines to allow paragraphs
-  성장 하기 위해서 여러가지를 도전하고 있습니다.
+  성장 하기 위해서 여러가지를 도전을 하고 있습니다.
    - [꾸준함을 위한 1일 1커밋활동](https://github.com/jaehyun230)
    - [최신 기술 및 논문 공부](https://jojoldu.tistory.com/463)
    - [EO 인터뷰](https://www.youtube.com/watch?v=V9AGvwPmnZU&t=2s)
