@@ -1,4 +1,5 @@
-- layout: top-middle
+#- layout: top-middle
+- layout: left
   name: 해양 서비스 개발
   link: https://github.com/jaehyun230/websocket_area_function_send
   quote: >
