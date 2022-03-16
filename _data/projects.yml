@@ -1,6 +1,6 @@
 #- layout: top-middle
 - layout: left
-  name: 해양 서비스 개발
+  name: 해양 관제 서비스 <br>개발 및 연구
   link: https://github.com/jaehyun230/websocket_area_function_send
   quote: >
 #    2021.03.01 ~ 현재
@@ -13,7 +13,7 @@
     * AIS 신호 decoder, encoder 개발(2021.03 ~ 2021.05) 
 
 - layout: left
-  name: CNN 딥러닝 모델에서의 다양한 커버리지 평가방법과 정확도와의 관계 분석
+  name: CNN 딥러닝 모델 분석
   link: https://github.com/jaehyun230/CNN-Neuron-Analysis
   quote: >
 #    딥러닝 모델 평가 및 데이터 분석
