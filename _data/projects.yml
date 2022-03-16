@@ -8,47 +8,25 @@
     * 배달의 민족 정산 시스템팀 개발 파트 리딩 (2019.07.01 ~ 2021.04.19)
     * 배달의 민족 포인트 개편 TF 리딩 (2018.04.01 ~ 2018.07.31)
 
-- layout: top-middle
-  name: 레거시 시스템 리팩토링/리엔지니어링
-  link:
+- layout: left
+  name: CNN 딥러닝 모델에서의 다양한 커버리지 평가방법과 정확도와의 관계 분석
+  link: https://drive.google.com/file/d/1YSCzAy1AuDspywk5yxPCRXJOPig-YQoK/view?usp=sharing
   quote: >
+    Querydsl-JPA를 사용할 수 있는 Spring Batch Item Reader
   description: | # this will include new lines to allow paragraphs
-    * 인프런 RDS -> Aurora 마이그레이션 (2021.06.01 ~ 2021.06.20)
-    * [배달의 민족 정산 시스템 AWS 마이그레이션](https://www.youtube.com/watch?v=3ynQeAZpk4Y) (2020.06.01 ~ 2020.11.20)
-    * [배달의 민족 주문 시스템 개편](https://jojoldu.tistory.com/373) (2018.08.01 ~ 2018.10.31)
-    * [배달의 민족 포인트 시스템 개편](http://bit.ly/2EcIXIA) (2018.04.01 ~ 2018.07.31)
-    * [배달의 민족 정산 시스템 개편](http://bit.ly/2ksIEQB) (2017.01.01 ~ 2017.08.17)
+    <a href="https://drive.google.com/file/d/1YSCzAy1AuDspywk5yxPCRXJOPig-YQoK/view?usp=sharing"><img src="images/ResNet_whitebox.JPG" width="500" height="400"><br>
+    * Retrain 
+    * CNN 딥러닝 모델에서의 다양한 커버리지 평가방법과 정확도와의 관계 분석
+    * 해당 오픈소스 개발 과정은 [사내 기술 블로그에 포스팅](https://woowabros.github.io/experience/2020/02/05/springbatch-querydsl.html)
 
-- layout: top-middle
-  name: 대용량 데이터 처리 및 성능 개선
-  link:
+- layout: left
+  name: AutoRCCar-Aduino
+  link: https://github.com/jaehyun230/AutoRCCar-Aduino
   quote: >
+    아두이노를 이용한 자율주행 자동차
   description: | # this will include new lines to allow paragraphs
-    * 인프런 PostgreSQL SlowQuery 전체 튜닝
-    * 일 주문 300만건의 정산 시스템 API / Batch 개발 및 운영
-    * 일 주문 100만건의 포인트 시스템 메세지큐 / API / Batch 개발 및 운영
-    * 일 PV 2000만건의 포털 메인페이지 개발 및 관리
-    * Message Queue (AWS SQS) 를 이용한 비동기 포인트 처리 / 메일 발송 시스템 구현
-    * [대용량 Batch 시스템 구현](https://jojoldu.tistory.com/category/Spring%20Batch)
-    * [Pinpoint/Ngrinder를 통한 성능 테스트 및 개선](https://jojoldu.tistory.com/318)
-    * [JPA / Querydsl / MySQL 성능 개선](https://jojoldu.tistory.com/tag/db%20%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0)
-
-- layout: top-middle
-  name: 견고한 데이터 구조 및 애플리케이션 설계
-  link:
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    * 일 600억원 & 300만건 주문에서의 일일 정산
-    * 감사 추적(Audit Trail)을 위한 채권/미수금/보상의 Update가 없는 도메인 설계
-    * 감사 추적(Audit Trail)을 위한 이벤트 기반 포인트 도메인 설계
-    * 정산 프로젝트 TestCode 2500개 / Line Coverage 61%
-
-- layout: top-middle
-  name: IDC 및 AWS 클라우드 인프라 운영 관리
-  link:
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    * [AWS] Jenkins / Code Deploy / Beanstalk 을 이용한 무중단 배포
-    * [IDC] Jenkins / L4 / Nginx를 이용한 무중단 배포
-    * [IDC] MHA 를 이용한 MariaDB HA 환경 구성
-    * [IDC] Ansible를 이용한 IDC 인프라 자동화
+    <a href="https://drive.google.com/file/d/1YSCzAy1AuDspywk5yxPCRXJOPig-YQoK/view?usp=sharing"><img src="images/ResNet_whitebox.JPG" width="500" height="400"><br>
+    * 원격 조작을 이용한 학습 데이터 생성
+    * 적외선 센서, 라즈베리 파이 등 아두이노 조립
+    * 실험 및 학습 데이터 분석으로 성능 개선
+    * MLP 사용
