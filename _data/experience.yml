@@ -6,7 +6,7 @@
   quote: >
     대한민국 최초 해상교통관제서비스 VTS 시스템 구축, 전국 23개 VTS 중 19개소 설치
   description: | # this will include new lines to allow paragraphs
-    * YoLo5, 충돌회피 알고리즘을 이용한 자율운항 지원 서비스 연구
+    * 충돌회피 알고리즘을 이용한 자율운항 지원 서비스 연구, YoLo5
     * GeoServer, PostgreSQL 구축 및 튜닝
     * 수십가지의 해상관제 서비스 기능 구현
     * CRT를 이용한 메모리 누수 개선
