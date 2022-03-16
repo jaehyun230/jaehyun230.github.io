@@ -22,13 +22,21 @@ github_username:  jaehyun230
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Python & tensorflow / NodeJS & HTML & CSS     - **4년차 전문연구요원 개발자**<br><br>
-  **한국 최초 VTS 시스템 구축**, **전국 23개 VTS 중 19개소** 해양 교통관제 서비스에서 API 개발 및 인프라 구축을 해왔습니다.<br/>
-  현재는 팀 내에서 프로젝트 코어 구현, 설계 등을 업무로 하고 있습니다.<br/>
-  단순 프로젝트 개발이 아닌 <mark>재사용성을</mark> 높이는 방향으로 개발을 해야한다는 생각으로
-  CRT를 이용한 메모리 누수 체크 및 개선, 환경에 맞는 좌표변환, 기능별 모듈로 나누어서 개발을 해오기도 했습니다.<br/>
-  지속적인 개발을 위해선 <mark>클린 코드</mark> 작성을 당연하게 생각하여 꾸준한 리팩토링 작업을 수행하여 왔습니다.
-  현재는 해양 관제 서비스 기능 개발, 퍼포먼스 개선 및 자율 운항 지원 서비스 성장을 지원하고 있습니다.
+  Deep Learning & Web Development     - **4년차 전문연구요원 개발자**<br><br>
+  안녕하세요! **생각하는 개발자** 박재현입니다.<br><br>
+  **최신 기술**에 관심을 가지고 있고, 이를 재현해보면서 흥미를 가집니다.<br>
+  새로운 것을 꾸준히 익히려하고 문제 해결을 위해 **끊임없이 생각하고 고민**하는 것이 저의 장점입니다.<br>
+  항상 **도전**하려고 하고있고 이를 위해, **1일 1커밋** 활동을 하고 있습니다.<br><br>
+
+  최근에는 **클린 코드**작성, **코드 리팩토링**에 대하여 매번 고민하며 개발하고 있습니다.
+
+
+#  **한국 최초 VTS 시스템 구축**, **전국 23개 VTS 중 19개소** 해양 교통관제 서비스에서 API 개발 및 인프라 구축을 해왔습니다.<br/>
+#  현재는 팀 내에서 프로젝트 코어 구현, 설계 등을 업무로 하고 있습니다.<br/>
+#  단순 프로젝트 개발이 아닌 <mark>재사용성을</mark> 높이는 방향으로 개발을 해야한다는 생각으로
+#  CRT를 이용한 메모리 누수 체크 및 개선, 환경에 맞는 좌표변환, 기능별 모듈로 나누어서 개발을 해오기도 했습니다.<br/>
+#  지속적인 개발을 위해선 <mark>클린 코드</mark> 작성을 당연하게 생각하여 꾸준한 리팩토링 작업을 수행하여 왔습니다.
+#  현재는 해양 관제 서비스 기능 개발, 퍼포먼스 개선 및 자율 운항 지원 서비스 성장을 지원하고 있습니다.
 
 # Projects Section
 # projects_title: Projects
@@ -42,16 +50,16 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 
-more_content: | # this will include new lines to allow paragraphs
-  성장 하기 위해서 여러가지를 도전을 하고 있습니다.
-   - [꾸준함을 위한 1일 1커밋활동](https://github.com/jaehyun230)
-   - [최신 기술 및 논문 공부](https://jojoldu.tistory.com/463)
-   - [EO 인터뷰](https://www.youtube.com/watch?v=V9AGvwPmnZU&t=2s)
-   - [2019 우아한 스프링 배치](https://www.youtube.com/watch?v=_nkJkWVH-mo&t=14s)
-   - [인프런 - IntelliJ IDEA 가이드](https://www.inflearn.com/course/intellij-guide)
-   - [2018 KCD - IntelliJ IDEA만으로 개발하기](https://www.youtube.com/watch?v=wBXSUdT1jX0)
-   - [2018 JetBrains Day - Upsource를 이용한 코드리뷰](https://www.youtube.com/watch?v=06bJt6CnRAU&feature=youtu.be)
-   - [마소 394호 - AWS EC2와 TravisCI를 활용한 무중단 배포 서비스](http://it.chosun.com/site/data/html_dir/2018/10/29/2018102900482.html)
+#more_content: | # this will include new lines to allow paragraphs
+#  성장 하기 위해서 여러가지를 도전을 하고 있습니다.
+#   - [꾸준함을 위한 1일 1커밋활동](https://github.com/jaehyun230)
+#   - [최신 기술 및 논문 공부](https://github.com/jaehyun230)
+#   - [EO 인터뷰](https://www.youtube.com/watch?v=V9AGvwPmnZU&t=2s)
+#   - [2019 우아한 스프링 배치](https://www.youtube.com/watch?v=_nkJkWVH-mo&t=14s)
+#   - [인프런 - IntelliJ IDEA 가이드](https://www.inflearn.com/course/intellij-guide)
+#   - [2018 KCD - IntelliJ IDEA만으로 개발하기](https://www.youtube.com/watch?v=wBXSUdT1jX0)
+#   - [2018 JetBrains Day - Upsource를 이용한 코드리뷰](https://www.youtube.com/watch?v=06bJt6CnRAU&feature=youtu.be)
+#   - [마소 394호 - AWS EC2와 TravisCI를 활용한 무중단 배포 서비스](http://it.chosun.com/site/data/html_dir/2018/10/29/2018102900482.html)
 
 # more_content: | # this will include new lines to allow paragraphs
 #   성장 하기 위해서 여러가지를 도전하고 있습니다.

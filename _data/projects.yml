@@ -33,6 +33,7 @@
   description: | # this will include new lines to allow paragraphs
     <a href="https://github.com/jaehyun230/AutoRCCar-Aduino"><img src="images/arduino_auto_car.JPG" width="550" height="400"><br>
     <br>
+    * 한국저작권 위원회 SW부분 (등록번호: C-2017-026627)
     * 학습 데이터 수집 및 학습
     * 적외선 센서, 장애물 탐지기, 라즈베리 파이, 파이 카메라 등 아두이노 조립
     * 실험 및 학습 데이터 분석으로 성능 개선
