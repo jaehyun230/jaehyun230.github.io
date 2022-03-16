@@ -1,5 +1,5 @@
 - layout: left
-  name: 부산 대학원 졸업(정보융합공학과)
+  name: 부산 대학원 졸업<br>(정보융합공학과)
   dates: 2019.03 ~ 2021.02
 #  link: https://github.com/jojoldu/fastcampus-aws-workshop
   quote: >
@@ -11,12 +11,13 @@
     * 자율주행 차량의 예상치 못한 기능 상호작용을 고려한 안전성 테스트 기술
     * 공통 컴포넌트 개발 프로세스 및 표준 모델 설계 기법 연구
 - layout: left
-  name: 부산 대학교 졸업(정보컴퓨터공학부)
+  name: 부산 대학교 졸업<br>(정보컴퓨터공학부)
   dates: 2014.03 ~ 2018.08
 #  link: https://jojoldu.tistory.com/162
   quote: >
 #    오라클을 기반의 쿼리 튜닝 교육
   description: | # this will include new lines to allow paragraphs
+    * 한국 특허
     * 아두이노 자율주행자동차 개발
     * 로로선 화물적재 프로젝트 개발
     * 학부연구생
