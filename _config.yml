@@ -22,10 +22,10 @@ github_username:  jaehyun230
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Python & tensorflow / NodeJS & HTML & CSS  - **4년차 전문연구요원 개발자**<br>
+  Python & tensorflow / NodeJS & HTML & CSS     - **4년차 전문연구요원 개발자**<br><br>
   **한국 최초 VTS 시스템 구축**, **전국 23개 VTS 중 19개소** 해양 교통관제 서비스에서 API 개발 및 인프라 구축을 해왔습니다.<br/>
-  현재는 팀 내에서 <mark>프로젝트 코어 구현, 설계</mark> 등을 업무로 하고 있습니다.<br/>
-  단순 기능개발이 아닌 <mark>재사용성을 높이는 방향으로</mark> 개발을 해야한다는 생각으로
+  현재는 팀 내에서 프로젝트 코어 구현, 설계 등을 업무로 하고 있습니다.<br/>
+  단순 프로젝트 개발이 아닌 <mark>재사용성을</mark> 높이는 방향으로 개발을 해야한다는 생각으로
   CRT를 이용한 메모리 누수 체크 및 개선, 환경에 맞는 좌표변환, 기능별 모듈로 나누어서 개발울 해오기도 했습니다.<br/>
   지속적인 개발을 위해선 <mark>클린 코드</mark> 작성을 당연하게 생각하여 꾸준한 리팩토링 작업을 수행하여 왔습니다.
   현재는 해양 관제 서비스 기능 개발, 퍼포먼스 개선 및 자율 운항 지원 서비스 성장을 지원하고 있습니다.
