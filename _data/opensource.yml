@@ -4,7 +4,7 @@
   quote: >
     석사를 하며 연구를 했던 내용 입니다.
   description: | # this will include new lines to allow paragraphs
-    <a href="https://drive.google.com/file/d/1XGmzvmMZIhV6KtirEltrx7OXJWseC7th/view?usp=sharing"><img src="images/ResNet_whitebox_activationvalue.JPG" width="500" height="400"><br>
+    <a href="https://drive.google.com/file/d/1XGmzvmMZIhV6KtirEltrx7OXJWseC7th/view?usp=sharing"><img src="images/ResNet_whitebox_activationvalue.JPG" width="400" height="400"><br>
     * Activation value 값과 Epoch 간의 관계 분석을 통한 화이트 박스 방법의 모델 평가
     * 입력값에 따른 뉴런들이 가지는 Activation value 값 분석을 통한 안정화 뉴런 평가
     * Epoch 변화에 따른 모델의 뉴런 값 및 정확도 분석
@@ -17,7 +17,7 @@
   quote: >
     Querydsl-JPA를 사용할 수 있는 Spring Batch Item Reader
   description: | # this will include new lines to allow paragraphs
-    <a href="https://drive.google.com/file/d/1YSCzAy1AuDspywk5yxPCRXJOPig-YQoK/view?usp=sharing"><img src="images/ResNet_whitebox.JPG" width="500" height="400"><br>
+    <a href="https://drive.google.com/file/d/1YSCzAy1AuDspywk5yxPCRXJOPig-YQoK/view?usp=sharing"><img src="images/ResNet_whitebox.JPG" width="400" height="400"><br>
     * CNN 딥러닝 모델에서의 다양한 커버리지 평가방법과 정확도와의 관계 분석
     * 각종 Data Augmentation 기법 활용 및 Transfer Learning
     * NC를 비롯한 여러 Coverage 방법 비교 분석
