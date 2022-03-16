@@ -17,9 +17,8 @@
     Querydsl-JPA를 사용할 수 있는 Spring Batch Item Reader
   description: | # this will include new lines to allow paragraphs
     <a href="https://drive.google.com/file/d/1YSCzAy1AuDspywk5yxPCRXJOPig-YQoK/view?usp=sharing"><img src="images/ResNet_whitebox.JPG" width="500" height="400"><br>
+    * Retrain 
     * CNN 딥러닝 모델에서의 다양한 커버리지 평가방법과 정확도와의 관계 분석
-    * Retrain
-    * 커버리지를 높이기 위한 Data Augmentation
     * 해당 오픈소스 개발 과정은 [사내 기술 블로그에 포스팅](https://woowabros.github.io/experience/2020/02/05/springbatch-querydsl.html)
 
 - layout: left
