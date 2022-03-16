@@ -1,9 +1,9 @@
 - layout: left
   name: 부산 대학원 졸업(정보융합공학과)
   dates: 2019.03 ~ 2021.02
-  link: https://github.com/jojoldu/fastcampus-aws-workshop
+#  link: https://github.com/jojoldu/fastcampus-aws-workshop
   quote: >
-    AWS 운영에 필요한 기본 개념들과 배포 환경 구성 교육
+#    AWS 운영에 필요한 기본 개념들과 배포 환경 구성 교육
   description: | # this will include new lines to allow paragraphs
     * CNN의 커버리지와 정확도 상관관계
     * ResNet의 뉴런 활성 값과 Epoch 간 상관관계 분석을 통한 화이트 박스 방법의 모델 평가
@@ -13,9 +13,9 @@
 - layout: left
   name: 부산 대학교 졸업(정보컴퓨터공학부)
   dates: 2014.03 ~ 2018.08
-  link: https://jojoldu.tistory.com/162
+#  link: https://jojoldu.tistory.com/162
   quote: >
-    오라클을 기반의 쿼리 튜닝 교육
+#    오라클을 기반의 쿼리 튜닝 교육
   description: | # this will include new lines to allow paragraphs
     * 아두이노 자율주행자동차 개발
     * 로로선 화물적재 프로젝트 개발
@@ -23,9 +23,9 @@
 - layout: left
   name: 대동 고등학교 졸업
   dates: 2011.03 ~ 2014.02
-  link: https://jojoldu.tistory.com/301
+#  link: https://jojoldu.tistory.com/301
   quote: >
-    인문계 고등학교
+#    인문계 고등학교
   description: | # this will include new lines to allow paragraphs
     * 3학년 반장
     * 1학년 반장
