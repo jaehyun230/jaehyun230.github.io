@@ -4,7 +4,7 @@ repository: jaehyun230/jaehyun230.github.io
 
 # Personal info
 name: 박재현
-title: Deep Learning Researcher & Web Development
+title: Deep Learning & Web Development
 email: wogus230vvv@gmail.com
 #website: https://white230.tistory.com
 
@@ -22,7 +22,7 @@ github_username:  jaehyun230
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Python & tensorflow / NodeJS & html & css 4년차 백엔드 개발자로
+  Python & tensorflow / NodeJS & HTML & CSS  - **2년차 전문연구요원 개발자**<br>
   **누적 학습수 1500만건**의 에듀테크, **MAU 1,300만/일 주문 300만 커머스**, **일 PV 2,000만 포탈** 등의 서비스에서 API/Batch 개발 및 AWS 인프라 구축 등을 해왔습니다.<br/>
   현재는 팀 내 <mark>개발 리더</mark>로 채용, 프로젝트 코어 구현, 파트 매니징, 설계 등을 주요 업무로 하고 있습니다.<br/>
   개인이 하고 싶은 일 보다는 <mark>회사와 팀에 도움이 되는</mark> 개발을 해야한다는 생각에
@@ -41,16 +41,28 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
+
 more_content: | # this will include new lines to allow paragraphs
-  여러 주제로 발표와 기고, 출판을 해왔습니다.
-   - [우아콘2020 - 수십억건에서 Querydsl 사용하기](https://www.youtube.com/watch?v=zMAX7g6rO_Y)
-   - [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://jojoldu.tistory.com/463)
+  성장 하기 위해서 여러가지를 도전하고 있습니다.
+   - [꾸준함을 위한 1일 1커밋활동](https://github.com/jaehyun230)
+   - [최신 기술 및 논문 공부](https://jojoldu.tistory.com/463)
    - [EO 인터뷰](https://www.youtube.com/watch?v=V9AGvwPmnZU&t=2s)
    - [2019 우아한 스프링 배치](https://www.youtube.com/watch?v=_nkJkWVH-mo&t=14s)
    - [인프런 - IntelliJ IDEA 가이드](https://www.inflearn.com/course/intellij-guide)
    - [2018 KCD - IntelliJ IDEA만으로 개발하기](https://www.youtube.com/watch?v=wBXSUdT1jX0)
    - [2018 JetBrains Day - Upsource를 이용한 코드리뷰](https://www.youtube.com/watch?v=06bJt6CnRAU&feature=youtu.be)
    - [마소 394호 - AWS EC2와 TravisCI를 활용한 무중단 배포 서비스](http://it.chosun.com/site/data/html_dir/2018/10/29/2018102900482.html)
+
+# more_content: | # this will include new lines to allow paragraphs
+#   성장 하기 위해서 여러가지를 도전하고 있습니다.
+#    - [우아콘2020 - 수십억건에서 Querydsl 사용하기](https://www.youtube.com/watch?v=zMAX7g6rO_Y)
+#    - [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://jojoldu.tistory.com/463)
+#    - [EO 인터뷰](https://www.youtube.com/watch?v=V9AGvwPmnZU&t=2s)
+#    - [2019 우아한 스프링 배치](https://www.youtube.com/watch?v=_nkJkWVH-mo&t=14s)
+#    - [인프런 - IntelliJ IDEA 가이드](https://www.inflearn.com/course/intellij-guide)
+#    - [2018 KCD - IntelliJ IDEA만으로 개발하기](https://www.youtube.com/watch?v=wBXSUdT1jX0)
+#    - [2018 JetBrains Day - Upsource를 이용한 코드리뷰](https://www.youtube.com/watch?v=06bJt6CnRAU&feature=youtu.be)
+#    - [마소 394호 - AWS EC2와 TravisCI를 활용한 무중단 배포 서비스](http://it.chosun.com/site/data/html_dir/2018/10/29/2018102900482.html)
   
 # Footer
 footer_show_references: true
