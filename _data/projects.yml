@@ -1,16 +1,16 @@
-#- layout: top-middle
-# - layout: left
-#   name: 해양 관제 서비스 <br>개발 및 연구
-#   link: https://github.com/jaehyun230/websocket_area_function_send
-#   quote: >
-# #    2021.03.01 ~ 현재
-#   description: | # this will include new lines to allow paragraphs
-#     <a href="https://github.com/jaehyun230/websocket_area_function_send"><img src="images/ResNet_whitebox.JPG" width="550" height="400"><br>
-#     <br>
-#     * 해양 관제 기능 개발 (2022.01 ~ 현재)
-#     * 스마트 항로표지 설계 및 개발 (2021.12 ~ 현재)
-#     * Json data 변환 프로그램 개발(2021.06 ~ 2016.06)
-#     * AIS 신호 디코더, 인코더 개발(2021.03 ~ 2021.05) 
+- layout: top-middle
+- layout: left
+  name: 해양 관제 서비스 <br>개발 및 연구
+  link: https://github.com/jaehyun230/websocket_area_function_send
+  quote: >
+#    2021.03.01 ~ 현재
+  description: | # this will include new lines to allow paragraphs
+    <a href="https://github.com/jaehyun230/websocket_area_function_send"><img src="images/sea_control.JPG" width="550" height="400"><br>
+    <br>
+    * 해양 관제 기능 개발 (2021.05 ~ 현재)
+    * 스마트 항로표지 설계 및 개발 (2021.12 ~ 현재)
+    * Json data 변환 프로그램, SHP 뷰어 개발(2021.05 ~ 2016.06)
+    * AIS 신호 디코더, 인코더, 가상 AIS 신호 생성기 개발(2021.03 ~ 2021.05) 
 
 - layout: left
   name: CNN 딥러닝 모델 분석
