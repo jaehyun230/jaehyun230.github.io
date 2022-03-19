@@ -9,7 +9,7 @@
     * Activation value 값과 Epoch 간의 관계 분석을 통한 화이트 박스 방법의 모델 평가
     * 입력값에 따른 뉴런들이 가지는 Activation value 값 분석을 통한 안정화 뉴런 평가
     * Epoch 변화에 따른 모델의 뉴런 값 및 정확도 분석
-    * SPSS 툴을 이용한 통계 계산
+    * SPSS 툴을 이용한 데이터 필터 및 피어슨 상관 분석
     
 
 - layout: left
@@ -23,7 +23,7 @@
     * CNN 딥러닝 모델에서의 다양한 커버리지 평가방법과 정확도와의 관계 분석
     * 각종 Data Augmentation 기법 활용 및 Transfer Learning
     * NC를 비롯한 여러 Coverage 방법 비교 분석
-    * SPSS 툴을 이용한 통계 계산
+    * SPSS 툴을 이용한 데이터 필터 및 피어슨 상관 분석
     
 #    * 해당 오픈소스 개발 과정은 [사내 기술 블로그에 포스팅](https://woowabros.github.io/experience/2020/02/05/springbatch-querydsl.html)
 
