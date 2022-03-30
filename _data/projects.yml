@@ -7,10 +7,12 @@
   description: | # this will include new lines to allow paragraphs
     <a href="https://github.com/jaehyun230/websocket_area_function_send"><img src="images/sea_control.JPG" width="550" height="400"><br>
     <br>
-    * 해양 관제 기능 개발 (2021.05 ~ 현재)
-    * 스마트 항로표지 설계 및 개발 (2021.12 ~ 현재)
-    * Json data 변환 프로그램, SHP 뷰어 개발(2021.04 ~ 2016.06)
-    * AIS 신호 디코더, 인코더, 가상 AIS 신호 생성기 개발(2021.03 ~ 2021.05) 
+    * CPA, TCPA을 이용한 충돌회피 및 자율운항 지원 서비스 연구
+    * GeoServer, PostgreSQL 구축 및 튜닝
+    * WFS를 이용한 GIS 데이터 관리(feature 추가, 수정, 삭제)
+    * CRT를 이용한 메모리 누수 개선
+    * EPSG 좌표변환 및 수식을 이용한 성능 개선(기존 오차범위의 약 3분의2로 축소)
+    * Protobuf를 활용한 Websocket 데이터 송수신 및 파싱
 
 - layout: left
   name: CNN 딥러닝 모델 분석
@@ -20,9 +22,11 @@
   description: | # this will include new lines to allow paragraphs
     <a href="https://github.com/jaehyun230/CNN-Neuron-Analysis"><img src="https://user-images.githubusercontent.com/48269869/158604449-15bd479e-89f6-4b06-8b61-0232cef89342.JPG" width="550" height="400"><br>
     <br>
-    * CNN 딥러닝 모델에서의 다양한 커버리지 평가방법과 정확도와의 관계 분석
-    * class, epoch divde and retrain
-    * Data Augmentation, Data Analysis
+    * 딥러닝 모델에서의 다양한 커버리지 평가방법과 정확도와의 관계 분석
+    * Coverage 값을 높이기 위한 Data Augmentation 기법 적용
+    * 다양한 상황에서 결과를 확인하기 위한 class 분리, epoch 분할 및 추가 Data retrain
+    * SPSS 분석툴을 이용한 데이터 필터 및 Data Analysis
+    * 학습 진행 과정에 따른 각 뉴런들의 Activation value 변화 분석
 #    * 해당 오픈소스 개발 과정은 [사내 기술 블로그에 포스팅](https://woowabros.github.io/experience/2020/02/05/springbatch-querydsl.html)
 
 - layout: left
@@ -34,7 +38,8 @@
     <a href="https://github.com/jaehyun230/AutoRCCar-Aduino"><img src="images/arduino_auto_car.JPG" width="550" height="400"><br>
     <br>
     * 한국저작권 위원회 SW부분 (등록번호: C-2017-026627)
-    * 학습 데이터 수집 및 학습
+    * 블루투스 통신을 이용한 원격 조종으로 학습 데이터 수집 및 학습
+    * WiFi 통신을 이용한 아두이노 자율주행
     * 적외선 센서, 장애물 탐지기, 라즈베리 파이, 파이 카메라 등 아두이노 조립
     * 실험 및 학습 데이터 분석으로 성능 개선
-    * MLP 사용
+    * MLP 모델 사용

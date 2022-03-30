@@ -6,11 +6,15 @@
   quote: >
 #    대한민국 최초 해상교통관제서비스 VTS 시스템 구축, 전국 23개 VTS 중 19개소 설치
   description: | # this will include new lines to allow paragraphs
-    * 충돌회피 알고리즘을 이용한 자율운항 지원 서비스 연구, YoLo5
-    * GeoServer, PostgreSQL 구축 및 튜닝
-    * 수십가지의 해상관제 서비스 기능 구현
-    * CRT를 이용한 메모리 누수 개선
-    * EPSG 좌표변환 및 수식을 이용한 성능 개선
+    * 해양 관제 기능 개발 (2021.05 ~ 현재)
+    * 스마트 항로표지 설계 및 개발 (2021.12 ~ 현재)
+    * Json data 변환 프로그램, SHP 뷰어 개발(2021.04 ~ 2016.06)
+    * AIS 신호 디코더, 인코더, 가상 AIS 신호 생성기 개발(2021.03 ~ 2021.05) 
+#    * 충돌회피 알고리즘을 이용한 자율운항 지원 서비스 연구, YoLo5
+#    * GeoServer, PostgreSQL 구축 및 튜닝
+#    * 수십가지의 해상관제 서비스 기능 구현
+#    * CRT를 이용한 메모리 누수 개선
+#    * EPSG 좌표변환 및 수식을 이용한 성능 개선
     
 
 #   개발파트 채용 브랜딩 개선 ([백엔드](https://www.notion.so/inflab/NodeJS-c3df214ebb28423092f6798122156c4d) / [프론트엔드](https://www.notion.so/inflab/React-VanillaJS-9f7029657eaa48ef814c057a1f8b4642))
