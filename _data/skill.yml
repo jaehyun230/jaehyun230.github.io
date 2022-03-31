@@ -1,7 +1,7 @@
 - layout: left
   name: Backend
   description: | # this will include new lines to allow paragraphs
-    * Python, NodeJS, C++
+    * Python, Node.js, C++
     * Tensorflow, Keras, Pytorch, OpenCV, Express, Socket.io, ajax, Asio C++, Boost
     * Geoserver
     * MongoDB, PostgreSQL
