@@ -5,7 +5,7 @@
   quote: >
 #    2021.03.01 ~ 현재
   description: | # this will include new lines to allow paragraphs
-    <a href="https://github.com/jaehyun230/websocket_area_function_send"><img src="images/sea_control.JPG" width="550" height="400"><br>
+    [<a href="https://github.com/jaehyun230/websocket_area_function_send"><img src="images/sea_control.JPG" width="550" height="400"><br>]
     <br>
     * CPA, TCPA을 이용한 충돌회피 및 자율운항 지원 서비스 연구
     * GeoServer, PostgreSQL 구축 및 튜닝
@@ -20,7 +20,7 @@
   quote: >
 #    딥러닝 모델 평가 및 데이터 분석
   description: | # this will include new lines to allow paragraphs
-    <a href="https://github.com/jaehyun230/CNN-Neuron-Analysis"><img src="https://user-images.githubusercontent.com/48269869/158604449-15bd479e-89f6-4b06-8b61-0232cef89342.JPG" width="550" height="400"><br>
+    [<a href="https://github.com/jaehyun230/CNN-Neuron-Analysis"><img src="https://user-images.githubusercontent.com/48269869/158604449-15bd479e-89f6-4b06-8b61-0232cef89342.JPG" width="550" height="400"><br>]
     <br>
     * 딥러닝 모델에서의 다양한 커버리지 평가방법과 정확도와의 관계 분석
     * Coverage 값을 높이기 위한 Data Augmentation 기법 적용
@@ -35,7 +35,7 @@
   quote: >
 #    아두이노를 이용한 자율주행 자동차
   description: | # this will include new lines to allow paragraphs
-    <a href="https://github.com/jaehyun230/AutoRCCar-Aduino"><img src="images/arduino_auto_car.JPG" width="550" height="400"><br>
+    [<a href="https://github.com/jaehyun230/AutoRCCar-Aduino"><img src="images/arduino_auto_car.JPG" width="550" height="400"><br>]
     <br>
     * 한국저작권 위원회 SW부분 (등록번호: C-2017-026627)
     * 블루투스 통신을 이용한 원격 조종으로 학습 데이터 수집 및 학습
