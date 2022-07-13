@@ -2,9 +2,9 @@
   name: Backend
   description: | # this will include new lines to allow paragraphs
     * Python, Node.js, C++
-    * Tensorflow, Keras, Pytorch, OpenCV, Express, Socket.io, ajax, Asio C++, Boost
+    * Tensorflow, Keras, Pytorch, OpenCV, Boost, proj4
     * Geoserver
-    * MongoDB, PostgreSQL
+    * PostgreSQL
     * Protobuf
    
 # - layout: left
@@ -19,6 +19,7 @@
 - layout: left
   name: Frontend
   description: | # this will include new lines to allow paragraphs
+    * vue.js
     * ES6, HTML, CSS
     * npm, Webpack
     * Openlayer
